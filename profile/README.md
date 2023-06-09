@@ -16,4 +16,4 @@ Electron Minecraft Launcher est un groupe de projets pour vous aider à créer *
 
 Sur ce GitHub, vous pourrez trouver ces divers projets, en allant des Launcher préconstruit au logiciel Web pour gérer votre Launcher facilement.
 
-Si vous avez besoin d'aide, vous pouvez rejoindre [ce Discord](https://discord.gg/6rjpyYskBV).
+Si vous avez besoin d'aide, vous pouvez rejoindre [ce Discord](https://discord.gg/nfEHKtghPh).
