@@ -4,4 +4,4 @@ Electron Minecraft Launcher is an ecosystem to help you build **your own** Minec
 
 On this GitHub, you can find these various projects, ranging from pre-built launchers to web-based software to manage your launcher easily.
 
-If you want some help, you can join [this Discord](https://discord.gg/VbR86WchH9)).
+If you want some help, you can join [this Discord](https://discord.gg/VbR86WchH9).
